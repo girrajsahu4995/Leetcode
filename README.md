@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/girrajsahu4995/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/girrajsahu4995/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/girrajsahu4995/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/girrajsahu4995/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/girrajsahu4995/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/girrajsahu4995/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/girrajsahu4995/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -186,4 +188,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/girrajsahu4995/Leetcode/tree/master/2029-stone-game-ix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/girrajsahu4995/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/girrajsahu4995/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/girrajsahu4995/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/girrajsahu4995/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
