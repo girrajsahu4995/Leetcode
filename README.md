@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/girrajsahu4995/Leetcode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/girrajsahu4995/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/girrajsahu4995/Leetcode/tree/master/2029-stone-game-ix) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/girrajsahu4995/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/girrajsahu4995/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/girrajsahu4995/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/girrajsahu4995/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/girrajsahu4995/Leetcode/tree/master/1260-shift-2d-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/girrajsahu4995/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Enumeration
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/girrajsahu4995/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/girrajsahu4995/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/girrajsahu4995/Leetcode/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/girrajsahu4995/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/girrajsahu4995/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/girrajsahu4995/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3524-find-x-value-of-array-i](https://github.com/girrajsahu4995/Leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -291,4 +294,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/girrajsahu4995/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/girrajsahu4995/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
