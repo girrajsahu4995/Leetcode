@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/girrajsahu4995/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/girrajsahu4995/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/girrajsahu4995/Leetcode/tree/master/0877-stone-game) |
 | [1254-number-of-closed-islands](https://github.com/girrajsahu4995/Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/girrajsahu4995/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/girrajsahu4995/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/girrajsahu4995/Leetcode/tree/master/0877-stone-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/girrajsahu4995/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
