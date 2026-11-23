@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/girrajsahu4995/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/girrajsahu4995/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/girrajsahu4995/Leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/girrajsahu4995/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/girrajsahu4995/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/girrajsahu4995/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/girrajsahu4995/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/girrajsahu4995/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/girrajsahu4995/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/girrajsahu4995/Leetcode/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/girrajsahu4995/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/girrajsahu4995/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/girrajsahu4995/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/girrajsahu4995/Leetcode/tree/master/1872-stone-game-viii) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/girrajsahu4995/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/girrajsahu4995/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/girrajsahu4995/Leetcode/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/girrajsahu4995/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -481,4 +484,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/girrajsahu4995/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/girrajsahu4995/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/girrajsahu4995/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
